@@ -1,7 +1,4 @@
 <div align="center">
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Backend+%26+Serverless+Architect;Math+%2B+Computer+Science&center=true&width=500&height=45&color=60A5FA&vCenter=true&pause=1000" />
 </p>
@@ -20,16 +17,7 @@ _Building intelligent systems with LLMs, RAG pipelines, scalable backends, and s
 
 ---
 
-## 👋 About Me
-
-- 🎓 **BSc Mathematics & Computer Science** — JKUAT
-- 🤖 Building production-grade **AI chatbots and RAG systems**
-- 🧠 Specializing in **LLM orchestration**, vector embeddings, and context-aware retrieval
-- ⚙️ Architecting backends with **FastAPI, Nginx, Redis** and serverless functions
-- 🚀 Deploying on **Netlify, Vercel, Cloudflare Workers, AWS Lambda**
-- 🌍 Based in **Nairobi, Kenya** — building for the world
-
----
+--
 
 ## 🛠️ Tech Stack
 
