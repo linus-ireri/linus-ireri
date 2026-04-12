@@ -11,7 +11,9 @@ I am **Linus Ireri**, an AI Developer, RAG Engineering Specialist.
 - 🚀 Deployed projects on Netlify
 
 ---
-- 🧠 Focused on building production-ready AI systems (RAG, embeddings, LLM pipelines)
+<p align="center">
+Building intelligent systems with LLMs, RAG pipelines, and scalable AI architectures.
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +56,22 @@ I am **Linus Ireri**, an AI Developer, RAG Engineering Specialist.
 
 
 
+---
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linus-ireri&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linus-ireri&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linus-ireri&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
