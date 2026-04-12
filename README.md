@@ -15,14 +15,9 @@ _Building intelligent systems with LLMs, RAG pipelines, scalable backends, and s
 
 </div>
 
----
-
---
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / LLM / RAG
-
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7C3AED?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
