@@ -1,4 +1,8 @@
-HiI THERE 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Math+%2B+Computer+Science&center=true&width=500&height=45">
+</p>
+
+HI THERE 👋
 
 I am **Linus Ireri**, an AI Developer, RAG Engineering Specialist.
 
@@ -57,22 +61,20 @@ Building intelligent systems with LLMs, RAG pipelines, and scalable AI architect
 
 
 ---
----
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linus-ireri&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=linus-ireri&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linus-ireri&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=linus-ireri&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linus-ireri&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linus-ireri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 📫 Contact
