@@ -1,6 +1,11 @@
+<img width="1536" height="1024" alt="ai-banner" src="https://github.com/user-attachments/assets/4c75c8f8-cefd-408e-b156-19f11e3a204a" />
+
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Math+%2B+Computer+Science&center=true&width=500&height=45">
 </p>
+
+<img width="1536" height="1024" alt="ai-banner" src="https://github.com/user-attachments/assets/a10d018c-ac65-4837-9a33-741bfb7e21dc" />
 
 HI THERE 👋
 
@@ -62,6 +67,7 @@ Building intelligent systems with LLMs, RAG pipelines, and scalable AI architect
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -76,7 +82,24 @@ Building intelligent systems with LLMs, RAG pipelines, and scalable AI architect
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linus-ireri&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 ---
+---
 
+## 🚀 Featured Projects
+
+### 🤖 AI Chatbot System
+- Built 5+ RAG-powered chatbots using embeddings and vector search
+- Integrated with WhatsApp API and web interface
+- Deployed on Netlify
+
+### 🧠 Custom RAG Pipeline
+- Chunking + embeddings (MiniLM)
+- HNSWLib vector store
+- Context-aware retrieval
+
+### 🌐 AI Web Assistant
+- Embedded chatbot widgets
+- Handles user queries + redirects intelligently
+- 
 ## 📫 Contact
 - GitHub: https://github.com/linus-ireri
 - LinkedIn: https://www.linkedin.com/in/linus-mugendi
