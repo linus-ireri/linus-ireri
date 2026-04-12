@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="ai-banner" src="https://github.com/user-attachments/assets/4c75c8f8-cefd-408e-b156-19f11e3a204a" />
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Backend+%26+Serverless+Architect;Math+%2B+Computer+Science&center=true&width=500&height=45&color=60A5FA&vCenter=true&pause=1000" />
