@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Math+%2B+Computer+Science&center=true&width=500&height=45">
 </p>
 
-<img width="1536" height="1024" alt="ai-banner" src="https://github.com/user-attachments/assets/a10d018c-ac65-4837-9a33-741bfb7e21dc" />
-
 HI THERE 👋
 
 I am **Linus Ireri**, an AI Developer, RAG Engineering Specialist.
