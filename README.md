@@ -185,6 +185,5 @@ Streaming Response  ──  Web Widget / WhatsApp / Telegram
 
 _"Intelligence is not just in the model — it's in the architecture around it."_
 
-![Visitors](https://visitor-badge.livelytics.ml/badge?page_id=linus-ireri.linus-ireri)
 
 </div>
