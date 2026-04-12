@@ -148,11 +148,6 @@ Streaming Response  ──  Web Widget / WhatsApp / Telegram
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=linus-ireri&theme=tokyonight&cache_seconds=1800" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linus-ireri&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
 ---
 
 ## 📫 Contact
