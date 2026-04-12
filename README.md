@@ -2,7 +2,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Backend+%26+Serverless+Architect;Math+%2B+Computer+Science&center=true&width=500&height=45&color=60A5FA&vCenter=true&pause=1000" />
 </p>
-# LINUS IRERI
+  
+  ## LINUS IRERI
 
 **`AI Engineer · RAG Specialist · LLMOPs Engineering`**
 
