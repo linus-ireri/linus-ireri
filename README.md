@@ -3,9 +3,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;RAG+Systems+Builder;LLM+Developer;Backend+%26+Serverless+Architect;Math+%2B+Computer+Science&center=true&width=500&height=45&color=60A5FA&vCenter=true&pause=1000" />
 </p>
 
-# Linus Ireri
+# LINUS IRERI
 
-**`AI Engineer · RAG Specialist · LLM Developer`**
+**`AI Engineer · RAG Specialist · LLMOPs Engineering`**
 
 _Building intelligent systems with LLMs, RAG pipelines, scalable backends, and serverless architectures._
 
@@ -80,7 +80,7 @@ User Query
     │
     ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│  Nginx Reverse Proxy  ──  Rate Limiting  ──  SSL Termination    │
+│  Nginx Reverse Proxy  ─  Rate Limiting  ─  SSL Termination    │
 └─────────────────────────────────────────────────────────────────┘
     │                                         │
     ▼                                         ▼
@@ -96,10 +96,10 @@ Redis Cache ◄────────────────► Embedding Mod
 └──────────────────────────────────────────────────────────────────┘
     │
     ▼
-Context Window Assembly  ──  LLM (GPT-4o / Claude / Mistral)
+Context Window Assembly  ─  LLM (GPT-4o / Claude / Mistral)
     │
     ▼
-Streaming Response  ──  Web Widget / WhatsApp / Telegram
+Streaming Response  ─  Web Widget / WhatsApp / Telegram
 ```
 
 ---
@@ -157,11 +157,8 @@ Streaming Response  ──  Web Widget / WhatsApp / Telegram
 | 🐙 GitHub | [github.com/linus-ireri](https://github.com/linus-ireri) |
 | 💼 LinkedIn | [linkedin.com/in/linus-mugendi](https://www.linkedin.com/in/linus-mugendi) |
 
----
-
 <div align="center">
 
 _"Intelligence is not just in the model — it's in the architecture around it."_
-
 
 </div>
