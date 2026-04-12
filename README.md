@@ -1,6 +1,6 @@
 HiI THERE 👋
 
-I am Linus Ireri, an AI Developer, RAG Engineering Specialist.
+I am **Linus Ireri**, an AI Developer, RAG Engineering Specialist.
 
 ---
 
