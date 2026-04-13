@@ -4,7 +4,7 @@
 </p>
 
   ## LINUS IRERI - BSc Mathematics & Computer Science, JKUAT.
-
+  
 **`AI Engineer · RAG Specialist · LLMOPs Engineering`**
 
 _Building intelligent systems with LLMs, RAG pipelines, scalable backends, and serverless architectures._
