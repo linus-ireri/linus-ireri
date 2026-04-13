@@ -96,13 +96,12 @@ Redis Cache ◄────────────────► Embedding Mod
 └──────────────────────────────────────────────────────────────────┘
     │
     ▼
-Context Window Assembly  ─  LLM (GPT-4o / Claude / Mistral)
+Context Window Assembly  ─  LLM (GPT-4o / Claude / Mistral / Gemma)
     │
     ▼
 Streaming Response  ─  Web Widget / WhatsApp / Telegram
 ```
 
----
 
 ## 🚀 Featured Projects
 
